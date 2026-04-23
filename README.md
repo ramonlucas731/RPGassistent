@@ -1,7 +1,7 @@
 # RPGassistent
 Um assistente virtual que irá auxiliar o usuário na criação de um personagem para jogar **RPG(D&amp;D,5E)**.  
 
-Link de acesso para meu NotebookLM: https://notebooklm.google.com/notebook/7fcdc5d1-c0a7-4cea-80f1-e30c7d5b0c1e
+[Link de acesso para meu NotebookLM](https://notebooklm.google.com/notebook/7fcdc5d1-c0a7-4cea-80f1-e30c7d5b0c1e)
 
 
 * **Contexto e Objetivos:** Desenvolvi este assistente no NotebookLM para auxiliar na criação de personagens em campanhas de D&D. Notei que jogadores iniciantes frequentemente enfrentam dificuldades ao preencher fichas e tomar decisões iniciais. O assistente atua sanando dúvidas, oferecendo sugestões criativas e corrigindo erros comuns no processo de montagem de personagens, tornando a experiência mais fluida para todos. Ele também age como um atendente de taberna, agindo de maneira que o usuário se acostume com o roleplay do mundo medieval.
