@@ -2,15 +2,26 @@
 Um assistente virtual(ia) que irá auxiliar o usuário na criação de um personagem para jogar RPG(D&amp;D,5E).
 Link de acesso para meu NotebookLM: https://notebooklm.google.com/notebook/7fcdc5d1-c0a7-4cea-80f1-e30c7d5b0c1e
 
+
 #**Contexto e Objetivos:** Desenvolvi este assistente no NotebookLM para auxiliar na criação de personagens em campanhas de D&D. Notei que jogadores iniciantes frequentemente enfrentam dificuldades ao preencher fichas e tomar decisões iniciais. O assistente atua sanando dúvidas, oferecendo sugestões criativas e corrigindo erros comuns no processo de montagem de personagens, tornando a experiência mais fluida para todos. Ele também age como um atendente de taberna, agindo de maneira que o usuário se acostume com o roleplay do mundo medieval.
-#**Curadoria de Fontes**: 
-##Classes D&D 
-[Vídeo de Classes 1](https://www.youtube.com/watch?v=X5EWTy-EdG0)
-[Vídeo de Classes 2](https://www.youtube.com/watch?v=v1LNHwuOapk)
-##Raças D&D
-[Vídeo para Raças 1](https://www.youtube.com/watch?v=tfG17h2J7kw)
-[Vídeo para Raças 2](https://www.youtube.com/watch?v=Ia6TGAcIYgY)
-##Universo
+
+
+#**Curadoria de Fontes**:  
+
+##Classes D&D  
+
+[Vídeo de Classes 1](https://www.youtube.com/watch?v=X5EWTy-EdG0)  
+
+[Vídeo de Classes 2](https://www.youtube.com/watch?v=v1LNHwuOapk)  
+
+##Raças D&D  
+
+[Vídeo para Raças 1](https://www.youtube.com/watch?v=tfG17h2J7kw)  
+
+[Vídeo para Raças 2](https://www.youtube.com/watch?v=Ia6TGAcIYgY)  
+
+##Universo  
+
 [Vídeo explicando o universo de D&D](https://www.youtube.com/watch?v=cRzFcCFYlG0)
 
 #**Engenharia de Prompts e "Cicatrizes"**: Como ele é um assistente feito para iniciantes ou pessoas indecisas, coloquei o máximo de informações sobre o manual e sobre descrição de pontos básicos como classes, raças e antecedentes. Para testar se ele estava com informações válidas e sem cometer erros eu fiz uma pergunta simples: É possivel criar um mago com Sabedoria e Inteligência 0? 
