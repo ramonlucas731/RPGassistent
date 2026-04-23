@@ -1,31 +1,32 @@
+🍺 Bem-vindo à Taverna  
+
 # RPGassistent
 Um assistente virtual que irá auxiliar o usuário na criação de um personagem para jogar **RPG(D&amp;D,5E)**.  
+Acesse aqui 👉[Link de acesso para meu NotebookLM](https://notebooklm.google.com/notebook/7fcdc5d1-c0a7-4cea-80f1-e30c7d5b0c1e)
 
-[Link de acesso para meu NotebookLM](https://notebooklm.google.com/notebook/7fcdc5d1-c0a7-4cea-80f1-e30c7d5b0c1e)
 
-
-* **Contexto e Objetivos:** Desenvolvi este assistente no NotebookLM para auxiliar na criação de personagens em campanhas de D&D. Notei que jogadores iniciantes frequentemente enfrentam dificuldades ao preencher fichas e tomar decisões iniciais. O assistente atua sanando dúvidas, oferecendo sugestões criativas e corrigindo erros comuns no processo de montagem de personagens, tornando a experiência mais fluida para todos. Ele também age como um atendente de taberna, agindo de maneira que o usuário se acostume com o roleplay do mundo medieval.
+* 📚**Contexto e Objetivos:** Desenvolvi este assistente no NotebookLM para auxiliar na criação de personagens em campanhas de D&D. Notei que jogadores iniciantes frequentemente enfrentam dificuldades ao preencher fichas e tomar decisões iniciais. O assistente atua sanando dúvidas, oferecendo sugestões criativas e corrigindo erros comuns no processo de montagem de personagens, tornando a experiência mais fluida para todos. Ele também age como um atendente de taberna, agindo de maneira que o usuário se acostume com o roleplay do mundo medieval.
 
 
 * **Curadoria de Fontes**:  
 
-Classes D&D  
+Classes D&D⚔️  
 
 [Vídeo de Classes 1](https://www.youtube.com/watch?v=X5EWTy-EdG0)  
 
 [Vídeo de Classes 2](https://www.youtube.com/watch?v=v1LNHwuOapk)  
 
-Raças D&D  
+Raças D&D🐉  
 
 [Vídeo para Raças 1](https://www.youtube.com/watch?v=tfG17h2J7kw)  
 
 [Vídeo para Raças 2](https://www.youtube.com/watch?v=Ia6TGAcIYgY)  
 
-Universo  
+Universo📖  
 
 [Vídeo explicando o universo de D&D](https://www.youtube.com/watch?v=cRzFcCFYlG0)
 
-* **Engenharia de Prompts e "Cicatrizes"**: Como ele é um assistente feito para iniciantes ou pessoas indecisas, coloquei o máximo de informações sobre o manual e sobre descrição de pontos básicos como classes, raças e antecedentes. Para testar se ele estava com informações válidas e sem cometer erros eu fiz uma pergunta simples: É possivel criar um mago com Sabedoria e Inteligência 0? 
+* **Engenharia de Prompts e "Cicatrizes🛠️"**: Como ele é um assistente feito para iniciantes ou pessoas indecisas, coloquei o máximo de informações sobre o manual e sobre descrição de pontos básicos como classes, raças e antecedentes. Para testar se ele estava com informações válidas e sem cometer erros eu fiz uma pergunta simples: É possivel criar um mago com Sabedoria e Inteligência 0? 
 A resposta dele foi essa:
 >"Ah, mestre Ramon, essa é uma pergunta que faria qualquer arquimago derrubar seu cálice de hidromel! Pelas leis que regem o universo de Dungeons & Dragons 5ª Edição, a resposta curta é não, você não pode ter Inteligência ou Sabedoria 0,
 Deixe-me explicar o porquê, antes que você tente conjurar um truque e acabe transformando suas próprias botas em queijo:
@@ -34,7 +35,7 @@ O Limite Humano (ou Inumano): No sistema de D&D 5e, os valores de atributo para 
 
 Além de responder que não, ele explicou de maneira detalhada o porque, evitando que o jogador cometa erros durante a criação do personagem. Fora isso, ele também ajuda a preencher os pontos das fichas baseado nas informações repassadas pelo usuário, como NÍVEL INICIAL.  
 
-* **Resultados finais**:  
+* **Resultados finais**📜:  
 
 Os resultados finais obtidos foram satisfatórios pela quantidade de fontes anexadas ao projeto.
 O projeto foca em transformar a etapa técnica e, por vezes, complexa da criação de fichas num processo narrativo e fluido.  
@@ -46,7 +47,7 @@ O projeto foca em transformar a etapa técnica e, por vezes, complexa da criaç�
 **A Interface Narrativa**: O uso de um persona (Funcionário da Taverna) permite que o utilizador tome decisões mecânicas através de respostas a perguntas de contexto histórico (roleplay).
 
 
-* **Glossário de Conceitos Aprendidos** -  
+* **Glossário de Conceitos Aprendidos**📜 -  
 
 **D&D 5e (Dungeons & Dragons 5ª Edição)**: O sistema de RPG de fantasia mais utilizado no mundo, focado em três pilares: exploração, interação social e combate.  
 
@@ -58,7 +59,7 @@ Atributos de Base: As seis estatísticas fundamentais (Força, Destreza, Constit
 **Prompt Engineering (Engenharia de Prompt)**: A arte de estruturar instruções para a IA para que ela assuma uma personalidade específica (o Taverneiro) e siga regras rígidas de correção.
 
 
-* **Conjunto de Prompts Reutilizáveis**  
+* **Conjunto de Prompts Reutilizáveis**📜  
 
 Pode utilizar estes prompts para testar ou atualizar o teu assistente no futuro:  
 
