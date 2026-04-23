@@ -57,10 +57,11 @@ Atributos de Base: As seis estatísticas fundamentais (Força, Destreza, Constit
 ##**Prompt Engineering (Engenharia de Prompt)**: A arte de estruturar instruções para a IA para que ela assuma uma personalidade específica (o Taverneiro) e siga regras rígidas de correção.
 
 
-#**Conjunto de Prompts Reutilizáveis**
-Podes utilizar estes prompts para testar ou atualizar o teu assistente no futuro:
-Prompt de Definição de Persona (System Prompt):  
+#**Conjunto de Prompts Reutilizáveis**  
 
+Pode utilizar estes prompts para testar ou atualizar o teu assistente no futuro:  
+
+Prompt de Definição de Persona (System Prompt):
 *"Age como um experiente taverneiro de uma estalagem de fantasia. O teu objetivo é ajudar o viajante a preparar-se para a sua jornada (criar um personagem de D&D 5e). Fala de forma imersiva, mas sempre que o utilizador sugerir algo fora das regras do manual fornecido, corrige-o de forma educada dentro da personagem."  
 
 Prompt para Verificação de Consistência:
