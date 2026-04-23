@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=cRzFcCFYlG0
 
 #**Engenharia de Prompts e "Cicatrizes"**: Como ele é um assistente feito para iniciantes ou pessoas indecisas, coloquei o máximo de informações sobre o manual e sobre descrição de pontos básicos como classes, raças e antecedentes. Para testar se ele estava com informações válidas e sem cometer erros eu fiz uma pergunta simples: É possivel criar um mago com Sabedoria e Inteligência 0? 
 A resposta dele foi essa:
-<**"*Ah, mestre Ramon, essa é uma pergunta que faria qualquer arquimago derrubar seu cálice de hidromel! Pelas leis que regem o universo de Dungeons & Dragons 5ª Edição, a resposta curta é não, você não pode ter Inteligência ou Sabedoria 0,
+>"Ah, mestre Ramon, essa é uma pergunta que faria qualquer arquimago derrubar seu cálice de hidromel! Pelas leis que regem o universo de Dungeons & Dragons 5ª Edição, a resposta curta é não, você não pode ter Inteligência ou Sabedoria 0,
 Deixe-me explicar o porquê, antes que você tente conjurar um truque e acabe transformando suas próprias botas em queijo:
 O Limite Humano (ou Inumano): No sistema de D&D 5e, os valores de atributo para um personagem jogador variam de um mínimo de 3 (que é considerado um valor péssimo) até um máximo inicial de 18 ou 20
-. Um valor 0 em qualquer atributo geralmente significa que a criatura está morta ou em um estado de incapacidade total (como um coma ou paralisia completa)*"**>
+. Um valor 0 em qualquer atributo geralmente significa que a criatura está morta ou em um estado de incapacidade total (como um coma ou paralisia completa)"
 
 Além de responder que não, ele explicou de maneira detalhada o porque, evitando que o jogador cometa erros durante a criação do personagem. Fora isso, ele também ajuda a preencher os pontos das fichas baseado nas informações repassadas pelo usuário, como NÍVEL INICIAL.
 #**Resultados finais**:
