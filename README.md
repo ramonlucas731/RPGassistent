@@ -1,5 +1,6 @@
 # RPGassistent
-Um assistente virtual que irá auxiliar o usuário na criação de um personagem para jogar **RPG(D&amp;D,5E)**.
+Um assistente virtual que irá auxiliar o usuário na criação de um personagem para jogar **RPG(D&amp;D,5E)**.  
+
 Link de acesso para meu NotebookLM: https://notebooklm.google.com/notebook/7fcdc5d1-c0a7-4cea-80f1-e30c7d5b0c1e
 
 
